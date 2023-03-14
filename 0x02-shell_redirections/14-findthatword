@@ -1,6 +1,2 @@
 #!/bin/bash
 grep  "root"  /etc/passwd
-chmod u+x *
-git add .
-git commit -m "Findword"
-git push
